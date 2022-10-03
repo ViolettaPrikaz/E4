@@ -1,0 +1,15 @@
+C:\Users\YP\Desktop\4с\E_4\E_38\bin\Debug\net6.0\E_38.exe
+C:\Users\YP\Desktop\4с\E_4\E_38\bin\Debug\net6.0\E_38.deps.json
+C:\Users\YP\Desktop\4с\E_4\E_38\bin\Debug\net6.0\E_38.runtimeconfig.json
+C:\Users\YP\Desktop\4с\E_4\E_38\bin\Debug\net6.0\E_38.dll
+C:\Users\YP\Desktop\4с\E_4\E_38\bin\Debug\net6.0\E_38.pdb
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.csproj.AssemblyReference.cache
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.AssemblyInfoInputs.cache
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.AssemblyInfo.cs
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.csproj.CoreCompileInputs.cache
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.dll
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\refint\E_38.dll
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.pdb
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\E_38.genruntimeconfig.cache
+C:\Users\YP\Desktop\4с\E_4\E_38\obj\Debug\net6.0\ref\E_38.dll
