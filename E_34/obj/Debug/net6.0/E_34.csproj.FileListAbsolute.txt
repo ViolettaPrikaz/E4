@@ -1,0 +1,15 @@
+C:\Users\YP\Desktop\4с\E_4\E_34\bin\Debug\net6.0\E_34.exe
+C:\Users\YP\Desktop\4с\E_4\E_34\bin\Debug\net6.0\E_34.deps.json
+C:\Users\YP\Desktop\4с\E_4\E_34\bin\Debug\net6.0\E_34.runtimeconfig.json
+C:\Users\YP\Desktop\4с\E_4\E_34\bin\Debug\net6.0\E_34.dll
+C:\Users\YP\Desktop\4с\E_4\E_34\bin\Debug\net6.0\E_34.pdb
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.csproj.AssemblyReference.cache
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.AssemblyInfoInputs.cache
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.AssemblyInfo.cs
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.csproj.CoreCompileInputs.cache
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.dll
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\refint\E_34.dll
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.pdb
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\E_34.genruntimeconfig.cache
+C:\Users\YP\Desktop\4с\E_4\E_34\obj\Debug\net6.0\ref\E_34.dll
